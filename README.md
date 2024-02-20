@@ -1,6 +1,6 @@
 ![SmileIronMan3GIF](https://github.com/Sonny-Inkai/Sonny-Inkai/assets/126247253/af3d891c-2e4d-4048-9b29-d14a1e903881)
 
-My name is Sonny
+My name is `Sonny`
 =============================================================================================================================
 
 Data Scientist 🥰🤖😎
